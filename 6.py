@@ -1,5 +1,5 @@
 san,uma=map(str,input().split())
-if(len(s)!=len(u)):
+if(len(san)!=len(uma)):
     print("no")
 else :
     s1=[san.count(i) for i in san]

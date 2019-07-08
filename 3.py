@@ -1,2 +1,2 @@
 sandy=input()
-print(sandy.[::-1])
+print(sandy[::-1])

@@ -1,2 +1,2 @@
-sandy=input()
-print(sandy.title())
+zahir=input()
+print(zahir.title())

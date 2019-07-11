@@ -1,5 +1,5 @@
-san,tom=map(int,input().split())
-ze=list(map(int,input().split()))
+sandy,t=map(int,input().split())
+zoo=list(map(int,input().split()))
 for j in range(0,t):
-    ze=[ze[-1]]+ze[:-1]
-print(*ze,end=' ')
+    zoo=[zoo[-1]]+zoo[:-1]
+print(*zoo,end=' ')

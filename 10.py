@@ -1,5 +1,5 @@
 ps=input()
-pss=ps.split()
+ps=ps.split()
 san=ps[0]
 s=ps[1]
 count=0
